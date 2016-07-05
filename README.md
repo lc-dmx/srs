@@ -14,3 +14,5 @@
 ![](https://github.com/lc-dmx/srs/blob/master/transcript.jpg)
 ![](https://github.com/lc-dmx/srs/blob/master/transcriptentry.jpg)
 ![](https://github.com/lc-dmx/srs/blob/master/user.jpg)
+目录结构
+![](http://ww2.sinaimg.cn/mw690/ec5dc9c2gw1f5j99u3so9j20to0j4n4h.jpg)
