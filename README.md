@@ -16,3 +16,14 @@
 ![](https://github.com/lc-dmx/srs/blob/master/user.jpg)
 ###目录结构
 ![](http://ww2.sinaimg.cn/mw690/ec5dc9c2gw1f5j99u3so9j20to0j4n4h.jpg)
+###运行界面
+####学习计划
+![](http://ww3.sinaimg.cn/mw690/ec5dc9c2gw1f5jab0a015j20vg0fkgmz.jpg)
+####选课
+![](http://ww1.sinaimg.cn/mw690/ec5dc9c2gw1f5jaazo9lpj20vg0fkgn7.jpg)
+![](http://ww4.sinaimg.cn/mw690/ec5dc9c2gw1f5jaax4r1nj20vg0fkaby.jpg)
+####教师管理
+![](http://ww2.sinaimg.cn/mw690/ec5dc9c2gw1f5jaaz2suaj20vg0fkgmr.jpg)
+![](http://ww2.sinaimg.cn/mw690/ec5dc9c2gw1f5jaaygti4j20vg0fk40h.jpg)
+####成绩查询
+![](http://ww2.sinaimg.cn/mw690/ec5dc9c2gw1f5jaaxrk9tj20vg0fk0tf.jpg)
