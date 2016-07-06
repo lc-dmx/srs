@@ -15,7 +15,7 @@
 ![](https://github.com/lc-dmx/srs/blob/master/transcriptentry.jpg)
 ![](https://github.com/lc-dmx/srs/blob/master/user.jpg)
 ###目录结构
-![](http://ww2.sinaimg.cn/mw690/ec5dc9c2gw1f5j99u3so9j20to0j4n4h.jpg)
+![](https://github.com/lc-dmx/srs/blob/master/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
 ###运行界面
 ####学习计划
 ![](http://ww3.sinaimg.cn/mw690/ec5dc9c2gw1f5jab0a015j20vg0fkgmz.jpg)
